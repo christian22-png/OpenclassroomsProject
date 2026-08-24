@@ -1,0 +1,1 @@
+voila un ficher appeler cognotte permettant de sauvegarder certaines informations clees concernant la realisation de la partie cagnotte 
